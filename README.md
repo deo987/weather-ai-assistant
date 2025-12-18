@@ -64,6 +64,8 @@ For evaluation purposes, a fallback mechanism is implemented to ensure the appli
 5. Response is returned to frontend
 6. Query and response are stored in MongoDB
 7. Frontend displays the result to the user
+8. <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/db46d373-b8c9-4983-bb02-c34a009f12cb" />
+
 
 ---
 
